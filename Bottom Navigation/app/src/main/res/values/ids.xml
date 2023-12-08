@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_description" type="id" />
+    <item name="tv_name" type="id" />
+    <item name="navigation_dashboard" type="id" />
+    <item name="navigation_notifications" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="frame_container" type="id" />
+    <item name="bottom_navigation" type="id" />
+</resources>
